@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platos>
+    <plato carne="Ternera">
+        <title>La Pepita</title>
+        <description tema="Social">Queso Cheddar, lechuga, tomate y cebolla roja en pan artesano.</description>
+        <calorias> 732kcal</calorias>
+    </plato>
+    <plato carne="Ternera">
+        <title>Chaparrita</title>
+        <description tema="Comedia">Guacamole, pico de gallo, jalapeños, bacon y lechuga</description>
+    </plato>
+    <plato carne="Ternera">
+        <title>Reily</title>
+        <description tema="Aventura">Bacon, pepinillos, queso Cheddar, salsa barbacoa, lechuga, tomate y cebolla roja</description>
+    </plato>
+    <plato carne="Ternera">
+        <title>Smoky</title>
+        <description tema="Aventura">Bacon, mozarella Scamorza ahumada, salsa chili, rúcula, salsa barbacoa y cebolla en tempura.</description>
+    </plato>
+    <plato carne="Ternera">
+        <title>Corleone</title>
+        <description tema="Drama">Pesto rojo, mozzarella Scamorza ahumada, panceta troceada y rúcula</description>
+    </plato>
+    <plato carne="Ternera">
+        <title>Sorrentina</title>
+        <description tema="Comedia">Burger de ternera, rúcula, mozzarella fresca fundida, orégano, tomate seco en aceite de oliva y cebolla crujiente</description>
+    </plato>
+    <plato carne="Ternera">
+        <title>Rianxeira</title>
+        <description tema="Accion">Queso San Simón gratinado, panceta crujiente, lechuga, tomate y cebolla roja.</description>
+    </plato>
+    <plato carne="Ternera">
+        <title>Supreme</title>
+        <description tema="Suspense">(Salsa de trufa, crujiente de parmesano, huevo a baja temperatura, aceite de trufa y canónigos)</description>
+    </plato>
+    <plato carne="Ternera">
+        <title>Wichita</title>
+        <description tema="Drama">Doble burger de 100 g, bacon crujiente, Cheddar madurado, salsa BBQ al Bourbon y relish de pepinillos</description>
+    </plato>
+    <plato carne="Ternera">
+        <title>Smash Chili</title>
+        <description tema="Suspense">Doble smash burger, queso ahumado, queso Cheddar, cebolla caramelizada, bacon y salsa chile en pan brioche americano</description>
+    </plato>
+    <plato carne="Ternera">
+        <title>Smash Trufada</title>
+        <description tema="Accion">Doble smash burger, queso ahumado, queso Cheddar, bacon, huevo frito y salsa de trufa en pan brioche americano</description>
+    </plato>
+    <plato carne="Vegana">
+        <title>El escándalo (Bombshell)</title>
+        <description tema="Biografia">(01h50min)  - Película basada en hechos reales sobre el escándalo de 2016 en Fox News. Cuando la estrella televisiva Gretchen Carlson (Nicole Kidman) decida hablar, destapará todo un escándalo.</description>
+    </plato>
+    <plato carne="Vegana">
+        <title>Malasaña 32</title>
+        <description tema="Terror">(01h59min)  - Finales de los 70. La familia Olmedo se instala en un antiguo piso en el número 32 de la calle Manuela Malasaña de Madrid. Pero, la casa que han comprado esconde más sombras que luces, y no están solos. Esta película de terror sobrenatural inspirada en hechos reales la dirige Albert Pintó, responsable de Matar a Dios (2017).</description>
+    </plato>
+    <plato carne="Vegana">
+        <title>Toy Story 4</title>
+        <description tema="Animacion">(01h40min)  - El sheriff Woody y el miembro del Comando Estelar Buzz Lightyear, junto al resto de la pandilla de juguetes, están a punto de hacer un viaje familiar por carretera con Bonnie, su querida dueña. Pero cuando aparece Forky, una manualidad hecha por Bonnie convertida en juguete, empiezan los problemas. Forky...</description>
+    </plato>
+</platos>
